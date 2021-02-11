@@ -13,12 +13,12 @@ documents in the 'doc' folder.
 Folders
 ----------
 The folders are;
-4biticons
-examples
-docs
-icon_conversions
-UTFTESP32
-Windows Apps
+4biticons,
+examples,
+docs,
+icon_conversions,
+UTFTESP32,
+Windows Apps.
 
 The contents of the folders are as listed
 -------------------------------------------
